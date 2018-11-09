@@ -1,6 +1,6 @@
-package interfaces;
+package inheritance;
 
-public class HelloWorldNumberConversion {
+public class HelloWorldInheritance {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

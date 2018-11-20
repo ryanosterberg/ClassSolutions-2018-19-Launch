@@ -14,6 +14,7 @@ public class NumbersOOPTest {
 		System.out.println("The area of the rectangle is " + area + ".");
 		double round = man.returnRoundUp(5.5);
 		System.out.println("Rounding the previous number created " + round + ".");
+		//edit
 	}
 
 }

@@ -1,17 +1,17 @@
 package oOP;
 
-public class Bank {
+public class Bank2 {
 
 	private double money;
 	private double rate;
 	private int acountNumber=738928;
 
-	public Bank() {
+	public Bank2() {
 		money = 0.0;
 		rate = 0.10;
 	}
 
-	public Bank(double m, double r) {
+	public Bank2(double m, double r) {
 		money = m;
 		rate = r;
 	}
@@ -60,7 +60,6 @@ public class Bank {
 	{
 		return acountNumber;
 	}
-	//uigygftufiguhiunnnn
 	
 	
 }
